@@ -7,7 +7,7 @@ Navigation mesh utilities for Cesium.js, based on three-pathfinding.
 
 # Thanks to
 
-Mr Yao's 3d model
+Yao's 3d model
 
 # Reference
 
